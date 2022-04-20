@@ -1,0 +1,17 @@
+.qr_container{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: -5px;
+}
+.qr{
+    width: 125px;
+    height: 125px;
+    background-image: url("./qr.png");
+    background-size: 125px 125px;
+}
